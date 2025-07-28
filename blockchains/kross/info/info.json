@@ -1,0 +1,10 @@
+{
+  "name": "Kross Network",
+  "website": "https://kross.network",
+  "description": "Decentralized blockchain platform With Morden Payment ,ethodes",
+  "explorer": "https://explorer.kross.network",
+  "rpc": "https://rpc-v1.kross.network",
+  "symbol": "KSS",
+  "type": "coin",
+  "decimals": 18
+}
